@@ -1,4 +1,4 @@
-# Bem-vindo ao meu GitHub 👋
+# Bem-vindo ao meu GitHub 
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou iniciando meus estudos em programação.  
 Aqui vou registrar meus aprendizados, pequenos projetos e exercícios feitos durante o curso.
